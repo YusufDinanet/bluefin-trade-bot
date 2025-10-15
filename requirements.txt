@@ -1,0 +1,3 @@
+bluefin-v2-client
+python-dotenv
+requests
